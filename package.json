@@ -1,0 +1,16 @@
+{
+  "name": "mtg-token-army",
+  "version": "1.0.0",
+  "description": "An app for keeping track of your token creatures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott and Julian Blumenthal",
+  "license": "MIT",
+  "dependencies": {
+    "jsx-transform": "^2.3.0",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
